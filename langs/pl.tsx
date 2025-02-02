@@ -1264,51 +1264,51 @@ const messages:IMessages = {
     h: "EmJa8O6YE7jrgmaqDUM5pIdurIYHfx1RIvVLHmqhRws=",
   },
   "Import From Web YNAB...": {
-    val: "Zaimportuj z Web YNAB...",
+    val: "Importuj z Web YNAB...",
     translated: true,
     h: "7Yteq/akhgWWCBUeqgBRz4wP6bKcirfp74uLeTQop3Q=",
   },
   "Import From YNAB4...": {
-    val: "Zaimportuj z YNAB4...",
+    val: "Importuj z YNAB4...",
     translated: true,
     h: "z10Vp9BzEC6CkLTNtR8xywSTNYGMBbGFZMD7XUEbrVs=",
   },
   "Import Transactions": {
     /* Undo/redo label for importing transactions */
-    val: "Zaimportuj transakcje",
+    val: "Importuj transakcje",
     translated: true,
     h: "0RkMBEPqgu5UHcGd2OzH7z/1vkRlIhOPxBSeollnMnU=",
   },
   "Import Transactions...": {
-    val: "Zaimportuj transakcje...",
+    val: "Importuj transakcje...",
     translated: true,
     h: "PPLzf/61MKc3iWfDMTRo6ERH/TYu6TxBH2vmVbZD5Lk=",
   },
   "Import all Amazon Reports": {
-    val: "Zaimportuj wszystkie raporty Amazon",
+    val: "Importuj wszystkie raporty Amazon",
     translated: true,
     h: "EwzV2gCi/cxxLtdXGeSBJLDZhAhXqomL1rdi7QPOQxA=",
   },
   "Import complete!": {
     /* Notification when an import is complete */
-    val: "Import complete!",
-    translated: false,
+    val: "Importowanie zakończone!",
+    translated: true,
     h: "L9VgrAXBV8q2Ux9I1Y2Mr/vbc6PiBI0Uxct20Hw6hwY=",
   },
   "Import file": {
     /* Button label for starting a file import */
     /* Button label for starting a file import */
-    val: "Zaimportuj plik",
+    val: "Importuj plik",
     translated: true,
     h: "iaQvPnsbTKu/ItmjoC8ctwpVbyumVe15GLL8nCbe25Q=",
   },
   "Import from Web YNAB": {
-    val: "Zaimportuj z Web YNAB",
+    val: "Importuj z Web YNAB",
     translated: true,
     h: "NyXkbdCVf1mZfbmhjqJx4M10Vz/UfGdvSHdz+G6CGKc=",
   },
   "Import from YNAB4": {
-    val: "Zaimportuj z YNAB4",
+    val: "Importuj z YNAB4",
     translated: true,
     h: "FJ55mGfxitbc5YeY1s6YEji8I54ILSi3sfzQALSx50I=",
   },
